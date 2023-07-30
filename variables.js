@@ -1,4 +1,4 @@
-# Data Type Github Practice
+
 
 var name = "Joey"
 var town = "Pennsville"
@@ -11,3 +11,11 @@ var life = 101
 var window = true
 var boats = false
 var skyPirates = true
+
+
+
+console.log(skyPirates)
+
+console.log(town)
+
+console.log(car)
